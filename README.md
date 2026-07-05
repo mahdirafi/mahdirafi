@@ -1,41 +1,134 @@
-## 👋 Hi, I'm MD Mahdi Hasan
+# Hi there 👋 I'm MD Mahdi Hasan
 
-💻 MERN Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00C853&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+</p>
 
-I love building fast, modern, and user-friendly web applications using the MERN Stack.
+## 👨‍💻 About Me
 
-🔭 Currently working on Full Stack MERN Projects
+I'm a passionate **MERN Stack Developer** who enjoys building modern, responsive, and scalable web applications.
 
-🌱 Learning Next.js, Advanced React & Backend Development
+Currently focused on improving my full-stack development skills by building real-world projects using **React, Next.js, Express.js, MongoDB, and Node.js**.
 
-💬 Ask me about React, JavaScript, Express, MongoDB, Git, and Tailwind CSS
-
-🤝 Open to collaborating on Open Source and MERN projects
-
-📫 Reach me at: mdnaimi277@gmail.com
-
-⚡ Fun Fact: Every project teaches me something new, and I enjoy solving real-world problems with code.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahdihasanrafi2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdihrafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnaimi277@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mahdirafi&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mahdirafi&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahdirafi&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahdirafi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahdirafi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Currently building Full Stack MERN Applications
+- 🌱 Learning **Next.js, TypeScript, Authentication & Backend Architecture**
+- 💡 Interested in Clean Code, UI/UX and Performance Optimization
+- 🤝 Open to Open Source & Collaboration
+- 💬 Ask me about **React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS**
+- 📫 Email: **mdnaimi277@gmail.com**
+- ⚡ Fun Fact: *I believe every project is another opportunity to learn something new.*
 
 ---
-[![](https://komarev.com/ghpvc/?username=mahdirafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mahdihrafi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://facebook.com/mahdihasanrafi2"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:mdnaimi277@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,sass" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare,npm,notion" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahdirafi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirafi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mahdirafi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mahdirafi&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 📚 Library Management System
+
+Modern Library Management Platform built with MERN Stack.
+
+**Tech:** React, Express.js, MongoDB, Node.js, Tailwind CSS
+
+🔗 Live Demo:
+🔗 Source Code:
+
+---
+
+### 💼 Portfolio Website
+
+Responsive portfolio showcasing projects, skills and experience.
+
+**Tech:** Next.js, React, Tailwind CSS
+
+🔗 Live Demo:
+🔗 Source Code:
+
+---
+
+### 🛒 E-commerce Website
+
+Complete eCommerce application with authentication, cart and payment integration.
+
+**Tech:** MERN Stack
+
+🔗 Live Demo:
+🔗 Source Code:
+
+---
+
+# 📊 Contribution Graph
+
+[![Mahdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdirafi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=mahdirafi&label=Profile+Views&color=0e75b6&style=flat)
+
+</p>
+
+---
+
+⭐️ From **MD Mahdi Hasan**
