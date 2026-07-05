@@ -71,7 +71,7 @@ Currently focused on improving my full-stack development skills by building real
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahdirafi&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdirafi&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
