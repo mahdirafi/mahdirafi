@@ -12,7 +12,7 @@ I love building fast, modern, and user-friendly web applications using the MERN 
 
 🤝 Open to collaborating on Open Source and MERN projects
 
-📫 Reach me at: your-email@gmail.com
+📫 Reach me at: mdnaimi277@gmail.com
 
 ⚡ Fun Fact: Every project teaches me something new, and I enjoy solving real-world problems with code.
 
