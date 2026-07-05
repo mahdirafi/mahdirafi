@@ -1,15 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm MD Mahdi Hasan
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I love building fast, modern, and user-friendly web applications using the MERN Stack.
+
+🔭 Currently working on Full Stack MERN Projects
+
+🌱 Learning Next.js, Advanced React & Backend Development
+
+💬 Ask me about React, JavaScript, Express, MongoDB, Git, and Tailwind CSS
+
+🤝 Open to collaborating on Open Source and MERN projects
+
+📫 Reach me at: your-email@gmail.com
+
+⚡ Fun Fact: Every project teaches me something new, and I enjoy solving real-world problems with code.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahdihasanrafi2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdihrafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnaimi277@gmail.com) 
